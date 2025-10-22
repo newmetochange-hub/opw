@@ -65,8 +65,9 @@ It’s a language for behavioral composition, negotiation, and growth.
 This is just the beginning.
 If OPW speaks to you, help it grow.
 Open a PR, share feedback, suggest new behaviors—or just star the repo to let us know you’re watching.
+```
 
-[Translations]
-[France]docs/README.fr.md
-[Arabic]docs/README.ar.md
-[Persian]docs/README.fa.md
+Transaltions
+[France Translation](docs/README.fr.md)
+[Arabic Translation](docs/README.ar.md)
+[Persian Translation](docs/README.fa.md)
