@@ -1,6 +1,6 @@
 # OPW : Une architecture comportementale vivante pour l’ère post-serveur
 
-![Logo OPW](../logo/opw-logo.svg)
+![Logo OPW](../logo/opw.png)
 
 > Un langage pour les développeurs qui en ont assez de se battre avec la structure—et qui veulent parler en comportements.
 
