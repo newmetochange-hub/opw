@@ -1,6 +1,6 @@
 # OPW: A Living Behavioral Architecture for the Post-Server Era
 
-![OPW Logo](logo/opw-logo.svg)
+![OPW Logo](logo/opw.png)
 
 > A language for developers who are done fighting structure—and ready to speak in behavior.
 
