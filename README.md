@@ -14,10 +14,9 @@ Legacy systems still punch:
 - Devs buried in docs just to understand basic flows
 - Servers crushed under redundant traffic
   
-[About OPW](docs/about.md)
-
 We said: Enough.
 
+[About OPW](docs/about.md)
 ---
 
 ## 🚀 What is OPW?
