@@ -6,12 +6,15 @@
 
 ---
 
+
 ## 🧠 Why OPW?
 
 Legacy systems still punch:
 - Central APIs, manual injection, heavy loads, repeated logic
 - Devs buried in docs just to understand basic flows
 - Servers crushed under redundant traffic
+  
+[About OPW](docs/about.md)
 
 We said: Enough.
 
@@ -58,12 +61,12 @@ We’re building living architecture—understandable, composable, negotiable.
 OPW is not a framework.
 It’s a language for behavioral composition, negotiation, and growth.
 
-🌐 Translations
-- فارسی
-- العربية
-- Français
-
 🤝 Contribute
 This is just the beginning.
 If OPW speaks to you, help it grow.
 Open a PR, share feedback, suggest new behaviors—or just star the repo to let us know you’re watching.
+
+[Translations]
+[France]docs/README.fr.md
+[Arabic]docs/README.ar.md
+[Persian]docs/README.fa.md
